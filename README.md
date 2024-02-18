@@ -19,6 +19,7 @@ Regularization: 0.2
 Public leaderboard score: 80.44
 Private leaderboard score: 74
 
-![Screen Shot 2024-02-17 at 7 44 49 PM](https://github.com/ancr8790/CancerDetection_CNN/assets/95835246/5ba9297e-c2be-4910-aa1c-d4a99995b592)
+<img width="621" alt="Screen Shot 2024-02-17 at 7 47 13 PM" src="https://github.com/ancr8790/CancerDetection_CNN/assets/95835246/7f0e2c5f-4dec-4c05-b965-374766ea01fd">
+
 
 
