@@ -5,7 +5,7 @@ Histopathological Cancer Detection on tissue scans
 
 The purpose of this project is to utilize Convolution Neural Network architecture to aid in detecting metastatic cancerous cells in small image patches taken from larger digital pathology scans. We are tasked with building a model that predicts which scans contain cancerous cells and which contain benign cells. The dataset consists of over 200,000 images that were previously classified. This project was also completed as part of the Introduction to Deep Learning course at University of Colorado Boulder for Week 3 content. 
 
-The data is taken from the Kaggle Competition which evaluates test submissions by area under the ROC curve between the predicted probability and the observed target.
+The data is taken from the Kaggle Competition which evaluates test submissions by area under the ROC curve between the predicted probability and the observed target. Accuracy and Loss plots for each implemented model can be found in repository as PNG files.
 
 The Best model trained from the project have the following hyper parameters:
 Architecture: Model 6 CNN	
